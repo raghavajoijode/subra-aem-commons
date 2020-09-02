@@ -6,7 +6,7 @@
 	
 	<groupId>org.subra.aem</groupId>
 	<artifactId>subra-aem-commons</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Subra AEM Commons</name>
 	<description>Common utils bundle for Subra</description>
 	<packaging>bundle</packaging>
@@ -20,7 +20,6 @@
 		<sling.password>admin</sling.password>
 		<vault.user>admin</vault.user>
 		<vault.password>admin</vault.password>
-
 		<java.version>11</java.version>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
