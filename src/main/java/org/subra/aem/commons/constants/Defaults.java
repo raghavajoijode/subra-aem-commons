@@ -4,11 +4,11 @@ public enum Defaults {
 
 	UTF_CHARSET("UTF-8"),
 
-	DEFAULT_PAGE_DESC("Default page description goes here"),
+	DEFAULT_PAGE_DESC("Default page description goes here."),
 
-	DEFAULT_SITE_NAME("XYZ Foods, Inc."),
+	DEFAULT_SITE_NAME("Subra Group"),
 
-	DEFAULT_IMAGE("/content/dam/xyz-foods/defaults/image.jpg"),
+	DEFAULT_IMAGE("/content/dam/subra/defaults/image.jpg"),
 
 	EXTERNALIZER_SCHEMA_HTTPS("https"), EXTERNALIZER_SCHEMA_HTTP("http"),
 
